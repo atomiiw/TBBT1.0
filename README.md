@@ -45,4 +45,4 @@ This app is inspired by the Youtube tutorial ["Build Multi Personality Chatbot i
 ## Author
 
 Atom  
-maidou.wang@duke.edu
+atom.wang@duke.edu
